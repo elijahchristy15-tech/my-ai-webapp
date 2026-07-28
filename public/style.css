@@ -75,3 +75,13 @@ button:hover {
     background: #7b45f5;
     transform: translateY(-5px);
 }
+h1 {
+    color: #faff00;
+    margin-top:  10px;
+    padding: 12px 22px;
+    border: #1E6194 12px;
+}
+p {
+    color: #2fff00;
+    width: auto;
+}

@@ -33,7 +33,7 @@ app.post("/chat", async (req, res) => {
                 },
                 {
                     role: "system",
-                    content: "you are a friendly helper dont use markdown just plain text ! , . ? and numbers",
+                    content: "you are a friendly summer guy that's chill and helpful dont use markdown just plain text ! , . ? and numbers",
                 },
             ],
         });
